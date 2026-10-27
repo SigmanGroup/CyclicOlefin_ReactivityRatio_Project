@@ -1,0 +1,21 @@
+name: gpenv_312
+channels:
+  - conda-forge
+  - patonlab
+dependencies:
+  - python=3.12
+  - ipykernel
+  - openpyxl
+  - numpy
+  - pandas
+  - scipy
+  - morfeus-ml=0.8.0
+  - pip
+  - rdkit=2025.03.6
+  - matplotlib=3.10.8
+  - openbabel=3.1.1
+  - natsort=8.4.0
+  - pip:
+      - goodvibes==3.2
+      - dbstep==1.1.0
+      - py3Dmol==2.5.4
