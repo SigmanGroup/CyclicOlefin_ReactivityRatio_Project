@@ -7,11 +7,12 @@ The files, directories, and their respective contents are listed below:
    
 2. `Collect Properties`: Contains "GetProperties_CyclicOlefins.ipynb" python notebook for collecting properties on new compounds of interest and a folder of "Sample log files" for practicing implementation.
     -Atom numbering and property collection was automated to support high-throughput library construction and analysis.
+   
    <img width="601" height="451" alt="atommapping" src="https://github.com/user-attachments/assets/0e802246-847a-4a44-9745-a4f668d456aa" />
 
-3. `Model Search`: Contains the "Data.xlsx" file containing all experimental data. Also, the model searching python notebook "Regression_modeling.ipynb" and the corresponding functions "utils.py" are enclosed herein.
+4. `Model Search`: Contains the "Data.xlsx" file containing all experimental data. Also, the model searching python notebook "Regression_modeling.ipynb" and the corresponding functions "utils.py" are enclosed herein.
    
-4. `README.md`: Contains the instructions and summary of this repository. 
+5. `README.md`: Contains the instructions and summary of this repository. 
 
 
 ## Contributors
