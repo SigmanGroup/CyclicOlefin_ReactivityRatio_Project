@@ -5,7 +5,7 @@ The files, directories, and their respective contents are listed below:
 
 1. `869 Cyclic Olefin Library`: Contains the 869 "Combined_CyclicOlefin_DFT_Library_Final.xlsx spreadsheet and the link to the MOLSSI library.
    
-2. `Collect Properties`: Contains "GetProperties_CyclicOlefins.ipynb" python notebook for collecting properties on new compounds of interest and a folder of "Sample log files" for practicing implementation.
+2. `Collect Properties`: Contains "GetProperties_CyclicOlefins.ipynb" python notebook for collecting properties on new compounds of interest and a folder of "Sample log files" for practicing implementation. Also included is the "gpenv_312.yml" file for creating the appropriate environment. 
    
     -Atom numbering and property collection was automated to support high-throughput library construction and analysis.
    
