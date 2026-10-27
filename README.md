@@ -7,3 +7,7 @@ The files, directories, and their respective contents are listed below:
 2. `Collect Properties`: Contains "GetProperties_SS-github.ipynb" python notebook for collecting properties on new compounds of interest and a folder of "Sample log files" for practicing implementation.
 3. `Model Search`: Contains the "Data.xlsx" file containing all experimental data. Also, the model searching python notebook "Regression_modeling_SS-github.ipynb" and the corresponding functions "utils_github.py" are enclosed herein.
 4. `README.md`: Contains the instructions and summary of this repository. 
+
+
+## Contributors
+-Samantha E. Sloane, PhD
