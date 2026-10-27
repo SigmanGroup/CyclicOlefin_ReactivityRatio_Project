@@ -20,6 +20,6 @@ The files, directories, and their respective contents are listed below:
 -Samantha E. Sloane, PhD
 
 ## References
-https://github.com/SigmanGroup/GetProperties
-https://github.com/SigmanGroup/chemical_space_and_clustering
-https://github.com/SigmanGroup/BO_modeling
+-https://github.com/SigmanGroup/GetProperties
+-https://github.com/SigmanGroup/chemical_space_and_clustering
+-https://github.com/SigmanGroup/BO_modeling
