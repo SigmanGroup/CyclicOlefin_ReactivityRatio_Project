@@ -1,2 +1,2 @@
-MOLSSI Library can be found here, which includes all .log files:
+MOLSSI Library can be found here:
 https://descriptor-libraries.molssi.org/cyclic-olefins/ 
