@@ -1,6 +1,8 @@
 # CyclicOlefin_ReactivityRatio_Project
 This repository contains the code for calculating reactivity ratios and extracting molecular descriptor properties of cyclic olefin compounds. For the previously calculated library of 869 cyclic olefin compounds, refer to https://descriptor-libraries.molssi.org/cyclic-olefins/
 
+Refer to XXXXXXX doi for published manuscript.
+
 The files, directories, and their respective contents are listed below: 
 
 1. `869 Cyclic Olefin Library`: Contains the 869 "Combined_CyclicOlefin_DFT_Library_Final.xlsx spreadsheet and the link to the MOLSSI library.
