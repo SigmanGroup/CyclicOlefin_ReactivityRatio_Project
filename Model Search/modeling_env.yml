@@ -1,3 +1,4 @@
+#This environment is directly from https://github.com/SigmanGroup/python-modeling
 channels:
   - defaults
 dependencies:
