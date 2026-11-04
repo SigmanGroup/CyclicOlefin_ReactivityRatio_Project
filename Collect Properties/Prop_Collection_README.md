@@ -1,4 +1,6 @@
 Property Collection Workflow
+Use GetProperties_CyclicOlefins.ipynb
+Note that 4 .log files, representative of 4 conformers of 1 molecule, are in the "Sample log files" folder
 1. The SMARTS pattern ‘CC=C[#6,#16]’ was used to identify atom numbers and elements appearing in or adjacent to olefins. 
 2. Skipped all compounds containing multiple olefins except for those that were evaluated experimentally, T22, E1, and E4. For those compounds, atom mapping was done manually to ensure properties were collected on the correct olefin.
 3. Olefinic positions were distinguished electronically by comparing Boltzmann weighted average Hirshfeld atomic charges across all conformers, where C1 is designated as the position with the more negative partial charge, or more electron rich.
